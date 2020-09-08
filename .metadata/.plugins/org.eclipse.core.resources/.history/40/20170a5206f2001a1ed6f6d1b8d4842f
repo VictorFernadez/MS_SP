@@ -1,0 +1,5 @@
+package com.codev.models.entity;
+
+public class Producto {
+
+}

@@ -1,0 +1,8 @@
+package com.codev.models.service;
+
+import org.springframework.stereotype.Service;
+
+@Service("serviceFeign")
+public class ItemServiceFeign {
+
+}

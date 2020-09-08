@@ -1,0 +1,5 @@
+package com.codev.models.clientes;
+
+public interface ProductoClienteRest {
+
+}
