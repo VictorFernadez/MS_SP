@@ -1,5 +1,0 @@
-package com.codev.models.service;
-
-public interface ItemService {
-
-}

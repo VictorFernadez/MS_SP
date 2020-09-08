@@ -1,7 +1,0 @@
-package com.codev.models;
-
-public class Item {
-	private Producto producto;
-	private Integer cantidad;
-
-}
